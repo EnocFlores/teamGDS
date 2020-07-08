@@ -1,0 +1,30 @@
+body {
+    scroll-behavior: smooth;
+    overflow-x: unset;
+    background-color: #f8f8ff;
+}
+
+.nav-bar {
+    display: flex;
+    width: 100%;
+    height: 50px;
+    padding-right: 5px;
+}
+
+.content-wrapper {
+    height: 1000px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: coral;
+    padding: 3px;
+}
+
+.content {;
+    border: 3px solid blue;
+    padding: 5px;
+}
+
+.moreContent {
+    border: 3px solid gold;
+    padding: 5px;
+}
